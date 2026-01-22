@@ -4,6 +4,8 @@
 
 Me chamo Bernardo Corrêa, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursando Engenharia da Computação na Universidade Presbiteriana Mackenzie (3º Período). Tenho sede de aprender coisas novas e, principalmente, disposição.
 
+- 📖 Atualmente estou estudando linguagens como TypeScript, React e NodeJS
+
 <p align="left">
     <a href="www.linkedin.com/in/bernardo-corrêa">
         <img 
