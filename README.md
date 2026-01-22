@@ -7,7 +7,7 @@ Me chamo Bernardo Corrêa, tenho 18 anos e sou natural de São Paulo. Atualmente
 - 📖 Atualmente estou estudando linguagens como TypeScript, React e NodeJS
 
 <p align="left">
-    <a href="www.linkedin.com/in/bernardo-corrêa">
+    <a href="https://www.linkedin.com/in/bernardo-corr%C3%AAa/">
         <img 
             width="30px"
             alt="linkedin" 
