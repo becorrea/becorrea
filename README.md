@@ -4,7 +4,7 @@
 
 Me chamo Bernardo Corrêa, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursando Engenharia da Computação na Universidade Presbiteriana Mackenzie (3º Período). Tenho sede de aprender coisas novas e, principalmente, disposição.
 
-- 📖 Atualmente estou estudando FastAPI com Python
+- 📖 Atualmente estou estudando Agentes de IA com Python
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bernardo-corr%C3%AAa/">
