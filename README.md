@@ -2,7 +2,7 @@
 
 **``Desenvolvedor Fullstack``**
 
-Me chamo Bernardo Corrêa, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursando Engenharia da Computação na Universidade Presbiteriana Mackenzie (3º Período). Tenho sede de aprender coisas novas e, principalmente, disposição.
+Me chamo Bernardo Corrêa, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursando Engenharia da Computação na Universidade Presbiteriana Mackenzie (4º Período). Tenho sede de aprender coisas novas e, principalmente, disposição.
 
 - 📖 Atualmente estou estudando Agentes de IA com Python
 
